@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: type errors in arithmetic operations. The `foo` function attempts to add two numbers, but it does not handle cases where inputs are null or non-numbers.  The `bug.js` file contains the erroneous code, while `bugSolution.js` provides a corrected version with robust type checking.
